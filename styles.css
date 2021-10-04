@@ -25,6 +25,9 @@ header{
     flex-direction: column;
     background-color: #60a5dd;
     grid-area:header;
+    margin-left:60px;
+    margin-right:60px;
+    margin-top:20px;
 }
 
 header p{
